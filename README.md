@@ -58,7 +58,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/askat123)
+![codewars](https://www.codewars.com/users/askat123/badges/large)
 
 ### ⚙️ GitHub статистика:
 
